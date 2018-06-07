@@ -18,9 +18,21 @@ Aucune modification nécessaire : copier le fichier LICENSE.txt tel quel, à la 
 ## Fichier LICENSE-sources.txt
 
 - Ouvrir le fichier LICENSE-sources.txt et modifier les champs à changer : 
--- `Nom du logiciel`
--- `Date`. Remplacer par exemple par `2015 - 2018`.
+  - `Nom du logiciel`
+  - `Date`. Remplacer par exemple par `2015 - 2018`.
 
 - Dans chaque fichier source du projet, introduire en en-tête le contenu du fichier LICENCE-source.txt modifié.
 
 - Détruire le fichier LICENSE-sources.txt.
+
+## Fichier 
+
+
+
+## GitHub
+
+Dans GitHub, n'oubliez pas d'ajouter une description en une ligne de votre projet (bouton `Edit` sur la page
+du projet).
+
+Pour vérifier que vos fichiers GitLab sont adéquats, sur GitHub, allez sur l'onglet `Insights`, puis sur
+`Community`, et vérifiez que les voyants sont au vert.
