@@ -17,33 +17,41 @@ Remplacer le contenu de ce fichier par un contenu plus adéquat.
 Ce document définit la licence sous laquelle votre projet est posé sur GitHub. Le choix de l'État s'est porté
 sur la licence AGPL 3.0.
 
-Aucune modification nécessaire : copier le fichier LICENSE.txt tel quel, à la racine du projet.
+Aucune modification nécessaire : copier le fichier `LICENSE.txt` tel quel, à la racine du projet.
 
 ## Fichier LICENSE-sources.txt
 
-- Ouvrir le fichier LICENSE-sources.txt et modifier les champs à changer : 
+- Ouvrir le fichier `LICENSE-sources.txt` et modifier les champs à changer : 
   - `Nom du logiciel`
   - `Date`. Remplacer par exemple par `2015 - 2018`.
 
-- Dans chaque fichier source du projet, introduire en en-tête le contenu du fichier LICENCE-source.txt modifié.
+- Dans chaque fichier source du projet, introduire en en-tête le contenu du fichier `LICENCE-source.txt` 
+ainsi modifié.
 
-- Détruire le fichier LICENSE-sources.txt.
+- Détruire le fichier `LICENSE-sources.txt`.
 
 ## Fichier CONTRIBUTING.md
 
 Ce document founit aux développeurs de la communauté des instructions sur la manière de collaborer à votre projet.
 Il est facultatif, mais recommandé.
 
-Selon que votre projet est en français ou en anglais, renommer le fichier CONTRIBUTING-fr.md ou le fichier
-CONTRIBUTING-en.md en CONTRIBUTING.md, puis détruisez l'autre fichier. Votre fichier CONTRIBUTING.md est à
+Selon que votre projet est en français ou en anglais, renommer le fichier `CONTRIBUTING-fr.md` ou le fichier
+`CONTRIBUTING-en.md` en `CONTRIBUTING.md`, puis détruisez l'autre fichier. Votre fichier `CONTRIBUTING.md` est à
 laisser à la racine du projet.
 
 Ces fichiers ne sont que des exemples : vous êtes libre de choisir un autre contenu.
-Si le format `.md` markdown) vous rebute, vous être libre de créer un fichier en format texte, appelé simplement
-`MARKDOWN`.
+Si le contenu proposé ne vous convient pas, GitHub fournit des
+[https://help.github.com/articles/setting-guidelines-for-repository-contributors](instructions)
+complètes.
+Si le format `.md` markdown) vous rebute, vous être libre de créer un fichier en format texte `CONTRIBUTING.txt`.
 
 
+## Fichier .gitignore
 
+Si votre projet est un projet Java, le fichier `gitignore_java` peut vous intéresser. Renommez-le simplement
+en `.gitignore` (sans oublier le `.` en préfixe) et laissez-le à la racine du projet.
+
+Si votre projet n'est pas un projet Java, vous pouvez détruire le fichier `gitignore_java`. 
 
 
 ## GitHub
@@ -53,4 +61,4 @@ du projet).
 
 Une fois que tous ces fichiers ont été intégrés à votre projet sur GitHub, pour vérifier qu'ils sont adéquats, 
 allez sur l'onglet `Insights`, puis sur `Community`, et vérifiez que les voyants sont au vert. Vous devez être 
-connectés à GitHub pour pouvoir l'option `Community`.
+connectés à GitHub pour pouvoir avoir l'option `Community`.
