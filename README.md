@@ -35,15 +35,18 @@ ainsi modifié.
 Ce document founit aux développeurs de la communauté des instructions sur la manière de collaborer à votre projet.
 Il est facultatif, mais recommandé.
 
-Selon que votre projet est en français ou en anglais, renommer le fichier `CONTRIBUTING-fr.md` ou le fichier
+Selon que votre projet est en français ou en anglais, renommez le fichier `CONTRIBUTING-fr.md` ou le fichier
 `CONTRIBUTING-en.md` en `CONTRIBUTING.md`, puis détruisez l'autre fichier. Votre fichier `CONTRIBUTING.md` est à
 laisser à la racine du projet.
 
 Ces fichiers ne sont que des exemples : vous êtes libre de choisir un autre contenu.
-Si le contenu proposé ne vous convient pas, GitHub fournit des
-[https://help.github.com/articles/setting-guidelines-for-repository-contributors](instructions)
-complètes.
-Si le format `.md` markdown) vous rebute, vous être libre de créer un fichier en format texte `CONTRIBUTING.txt`.
+Vous pouvez en particuliuer consulter les références proposées par GitHub au bas de sa page d'
+[instructions](https://help.github.com/articles/setting-guidelines-for-repository-contributors).
+Si le format `.md` (markdown) vous rebute, vous être libre de créer un fichier `CONTRIBUTING.txt` en format texte.
+
+## Pages github.io
+
+...
 
 
 ## Fichier .gitignore
