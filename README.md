@@ -37,12 +37,24 @@ Il est facultatif, mais recommandé.
 
 Selon que votre projet est en français ou en anglais, renommez le fichier `CONTRIBUTING-fr.md` ou le fichier
 `CONTRIBUTING-en.md` en `CONTRIBUTING.md`, puis détruisez l'autre fichier. Votre fichier `CONTRIBUTING.md` est à
-laisser à la racine du projet.
+laisser à la racine de votre projet.
 
 Ces fichiers ne sont que des exemples : vous êtes libre de choisir un autre contenu.
 Vous pouvez en particuliuer consulter les références proposées par GitHub au bas de sa page d'
 [instructions](https://help.github.com/articles/setting-guidelines-for-repository-contributors).
 Si le format `.md` (markdown) vous rebute, vous être libre de créer un fichier `CONTRIBUTING.txt` en format texte.
+
+## Fichier CODE_OF_CONDUCT.md
+
+Ce document fournit aux développeurs de la communauté les attentes de l'État sur l'attitude des participants
+au projet. Il vise à établir une atmosphère positive et respecteuse.
+Il est facultatif.
+
+Pour l'instant nous ne proposons qu'une version en anglais.
+
+Ce fichier `CODE_OF_CONDUCT.md` est à laisser à la racine de votre projet.
+
+Pour en savoir davantage sur le sujet, voir par exemple [ici](https://opensource.guide/code-of-conduct).
 
 ## Pages github.io
 
@@ -63,5 +75,5 @@ Dans GitHub, n'oubliez pas d'ajouter une description en une ligne de votre proje
 du projet).
 
 Une fois que tous ces fichiers ont été intégrés à votre projet sur GitHub, pour vérifier qu'ils sont adéquats, 
-allez sur l'onglet `Insights`, puis sur `Community`, et vérifiez que les voyants sont au vert. Vous devez être 
-connectés à GitHub pour pouvoir avoir l'option `Community`.
+allez sur l'onglet `Insights`, puis sur l'option `Community`, et vérifiez que les voyants sont au vert.
+Vous devez être connecté à GitHub pour voir l'option `Community`.
