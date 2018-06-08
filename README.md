@@ -17,7 +17,7 @@ Remplacer le contenu de ce fichier par un contenu plus adéquat.
 Ce document définit la licence sous laquelle votre projet est posé sur GitHub. Le choix de l'État s'est porté
 sur la licence AGPL 3.0.
 
-Aucune modification nécessaire : copier le fichier `LICENSE.txt` tel quel, à la racine du projet.
+Aucune modification nécessaire : copier le fichier `LICENSE.txt` tel quel, à la racine de votre projet.
 
 ## Fichier LICENSE-sources.txt
 
@@ -56,6 +56,10 @@ Ce fichier `CODE_OF_CONDUCT.md` est à laisser à la racine de votre projet.
 
 Pour en savoir davantage sur le sujet, voir par exemple [ici](https://opensource.guide/code-of-conduct).
 
+## Fichiers ISSUE_TEMPLATE
+
+Ces fichiers 
+
 ## Pages github.io
 
 ...
@@ -77,3 +81,7 @@ du projet).
 Une fois que tous ces fichiers ont été intégrés à votre projet sur GitHub, pour vérifier qu'ils sont adéquats, 
 allez sur l'onglet `Insights`, puis sur l'option `Community`, et vérifiez que les voyants sont au vert.
 Vous devez être connecté à GitHub pour voir l'option `Community`.
+
+Vérifiez que vous êtes bien observateur de votre propre projet (bouton `Watch`).
+Sans cela, si un développeur de la communauté soumet une pull request ou une "issue", vous ne serez pas averti
+par courriel.
